@@ -10,6 +10,7 @@ if __name__ == "__main__":
     myIngredients = map(lambda s: s.lower, input().split(", "))
 
     print(myIngredients)
+    
 
     result = []
     for recipe in recipes:
