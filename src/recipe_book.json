@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Carbonara",
+    "ingredients": [
+      {
+        "options": ["Parmesan", "Pecorino"],
+        "cost": 10,
+        "quantity": "8 oz"
+      },
+      {
+        "options": ["Bacon", "Panchetta"],
+        "cost": 10,
+        "quantity": "4 oz"
+      },
+      {
+        "options": ["Spaghetti", "Linguine", "Fettuccine"],
+        "cost": 3,
+        "quantity": "1 lb"
+      },
+      {
+        "options": ["Eggs"],
+        "cost": 4,
+        "quantity": "6 eggs"
+      },
+      {
+        "options": ["Pepper"],
+        "cost": 5,
+        "quantity": "1 tbsp"
+      }
+    ]
+  },
+    {
+    "name": "PBJ",
+    "ingredients": [
+      {
+        "options": ["Bread"],
+        "cost": 10,
+        "quantity": "2 slices"
+      },
+      {
+        "options": ["Peanut Butter"],
+        "cost": 10,
+        "quantity": "1 glob"
+      },
+      {
+        "options": ["Jelly"],
+        "cost": 3,
+        "quantity": "1 glob"
+      }
+    ]
+  }
+]
