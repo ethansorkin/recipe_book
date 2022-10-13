@@ -1,0 +1,11 @@
+Ethan Sorkin   Bird_Uo
+Russell Westbrook       "Oklohoma City Thunder"
+Patrick Beverly         "Los Angeles Clippers"
+Donovan Mitchell        "Utah Jazz"
+Dario Saric             "Philadelphia 76ers"
+Clint Capela            "Houston Rockets"
+D'Angelo Russell        "Brooklyn Nets"
+Markeiff Morris         "Washington Wizards"
+Jaren Jackson           "Memphis Grizzlies"
+Jeremy Lamb             "Charlotte Hornets"
+Mo Bamba                "Orlando Magic"
